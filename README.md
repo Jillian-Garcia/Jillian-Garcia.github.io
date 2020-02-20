@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+# Jillian Garcia
+**Email:** jilliangarcia@my.unt.edu  
+**Phone:** (512)-749-4515  
+[LinkedIn](https://www.linkedin.com/in/jillian-garcia-127453196/)   
 
-You can use the [editor on GitHub](https://github.com/Jillian-Garcia/Jillian-Garcia.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Hello! My name is Jillian Garcia**, and I am a current technical communication student aiming to specialize in copywriting and content development. I'm proficient in editing, information design, and industry tools like VS Code and Adobe Photoshop. I’d be honored to contribute to your team.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education  
+### University of North Texas | Graduation date: May 2023  
+**Major**  
+Bachelor of Science in Professional and Technical Communication
 
-### Markdown
+**Minor**  
+History 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Classes**  
+* Technical Writing
 
-```markdown
-Syntax highlighted code block
+* Advanced Technical Writing  
 
-# Header 1
-## Header 2
-### Header 3
+* The Profession of Technical Communication  
 
-- Bulleted
-- List
+* Technical Editing  
 
-1. Numbered
-2. List
+* Information Design for Electronic Media  
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Employment  
+### Fathom5  
+**Technical Writer**  
+May-August 2019
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Responsibilities**  
+* Developing content for the company’s website  
 
-### Jekyll Themes
+* Editing, compiling and stylizing software documentation and promotional copy
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jillian-Garcia/Jillian-Garcia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Repurposing marketing materials targeted towards Naval subject matter experts, students, developers, and businesses  
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Organizations
+### Honors College
+Member: August 2019 — current  
+President's List (4.0 GPA): Fall 2019  
+
+## Eagle Technical Communicators  
+I wrote content for the website, and I’ll be helping coordinate guest speakers and informational meetings in the spring semester.
+
+
+
+
+
+
