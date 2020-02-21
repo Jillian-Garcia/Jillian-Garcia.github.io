@@ -1,6 +1,8 @@
 # Jillian Garcia
 **Email:** jilliangarcia@my.unt.edu | **Phone:** (512)-749-4515 | [LinkedIn](https://www.linkedin.com/in/jillian-garcia-127453196/)       
 
+
+
 **Hello! My name is Jillian Garcia**, and I am a current technical communication student aiming to specialize in copywriting and content development. I'm proficient in editing, information design, and industry tools like VS Code and Adobe Photoshop. I’d be honored to contribute to your team.
 
 ## Education  
